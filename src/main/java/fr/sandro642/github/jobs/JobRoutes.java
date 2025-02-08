@@ -1,4 +1,4 @@
-package fr.sandro642.github.api.jobs;
+package fr.sandro642.github.jobs;
 
 public abstract class JobRoutes {
 
